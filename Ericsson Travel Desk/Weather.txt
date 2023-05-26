@@ -1,0 +1,23 @@
+﻿Delhi : 34
+London : 10
+Paris : 9
+Dubai : 39
+Pune : 34
+Istanbul : 17
+Tokyo : 24
+New York : 14
+Chicago : 18
+Delhi : 34
+London : 11
+Paris : 10
+Dubai : 38
+Pune : 33
+Istanbul : 17
+Tokyo : 24
+New York : 14
+Chicago : 18
+Delhi : 33
+Delhi : 33
+London : 11
+Delhi : 33
+London : 12
